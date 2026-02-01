@@ -279,8 +279,8 @@ We are not liable for failures due to circumstances beyond our reasonable contro
 
 For questions about these Terms, please contact us:
 
-- **Company**: Codeloop Software
-- **Email**: sales@codeloopsoftware.com
+- **Company**: Trjas
+- **Email**: trjas.dev@gmail.com
 
 ---
 
