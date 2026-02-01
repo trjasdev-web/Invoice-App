@@ -278,7 +278,6 @@ We are not liable for failures due to circumstances beyond our reasonable contro
 ## 18. Contact Information
 
 For questions about these Terms, please contact us:
-
 - **Company**: Trjas
 - **Email**: trjas.dev@gmail.com
 
